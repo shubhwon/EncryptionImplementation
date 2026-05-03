@@ -15,7 +15,8 @@ public class CountZerosUsingRecursion {
     public static void main(String[] args) {
         int count = countZeros(670100900);
 
-        System.out.println("Number of zeros: " + count);
+        System.out.println("Number of zeros: in number" + count);
+        System.out.println("that is it! ");
 
     }
 }
